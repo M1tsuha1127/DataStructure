@@ -1,5 +1,0 @@
-﻿  Program_1.cpp
-D:\DataStructure\Program_1\Program_1.h(180,9): warning C4101: “j”: 未引用的局部变量
-D:\DataStructure\Program_1\Program_1.h(412,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\DataStructure\Program_1\Program_1.h(177): warning C4715: “Locatert”: 不是所有的控件路径都返回值
-  Program_1.vcxproj -> D:\DataStructure\Program_1\x64\Debug\Program_1.exe
