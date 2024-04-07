@@ -1,0 +1,7 @@
+﻿  BigNumber.cpp
+D:\DataStructure\BigNumber\BigNumber.cpp(21,17): warning C4101: “pt”: 未引用的局部变量
+D:\DataStructure\BigNumber\BigNumber.cpp(65,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\DataStructure\BigNumber\BigNumber.cpp(66,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\DataStructure\BigNumber\BigNumber.cpp(64,39): warning C4101: “prev”: 未引用的局部变量
+D:\DataStructure\BigNumber\BigNumber.cpp(45): warning C4715: “Add”: 不是所有的控件路径都返回值
+  BigNumber.vcxproj -> D:\DataStructure\BigNumber\x64\Debug\BigNumber.exe

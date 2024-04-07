@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+D:\DataStructure\Calculator\Calculator.h(45,3): warning C4551: 缺少参数列表的函数调用
+D:\DataStructure\Calculator\Calculator.h(108): warning C4715: “Opreate”: 不是所有的控件路径都返回值
+D:\DataStructure\Calculator\Calculator.h(317): warning C4715: “Cmppri”: 不是所有的控件路径都返回值
+  Calculator.vcxproj -> D:\DataStructure\Calculator\x64\Debug\Calculator.exe

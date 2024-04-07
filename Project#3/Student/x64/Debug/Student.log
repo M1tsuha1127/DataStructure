@@ -1,0 +1,4 @@
+﻿  student.cpp
+D:\DataStructure\Project#3\Student\student.h(6,2): warning C4091: “typedef ”: 没有声明变量时忽略“course”的左侧
+D:\DataStructure\Project#3\Student\student.cpp(32,17): warning C4101: “tmp”: 未引用的局部变量
+  Student.vcxproj -> D:\DataStructure\Project#3\Student\x64\Debug\Student.exe

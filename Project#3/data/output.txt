@@ -1,0 +1,23 @@
+SSN: 333-33-3333
+NAME: Arcman, T1ck
+Registered For 2 Classes
+  - NMSL0114-0304
+  - CNMD0514-0506
+
+SSN: 444-44-4444
+NAME: Iam, Five
+Registered For 1 Classes
+  - WSCB0331-0206
+
+SSN: 111-11-1111
+NAME: Sanders, Lisa
+Registered For 3 Classes
+  - ENEE0114-0103
+  - CMSC0412-0101
+  - ENME0515-0123
+
+SSN: 222-22-2222
+NAME: Simpson, Bart
+Registered For 1 Classes
+  - CMSC0412-0101
+
